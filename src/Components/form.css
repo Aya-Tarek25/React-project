@@ -1,0 +1,22 @@
+.err {
+    border: 2px red solid;
+}
+form{
+    border: 5px solid rgb(102, 99, 99);
+    border-radius: 20px;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    margin: auto;
+   
+}
+input{
+   
+    width: 500px !important;
+    margin: auto;
+}
+button{
+    width: 200px !important;
+    margin: auto;
+}

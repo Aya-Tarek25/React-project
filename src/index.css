@@ -1,0 +1,36 @@
+AppBar{
+    background-color: rgb(37, 5, 59)!important;
+}
+Menu{
+    background-color: red !important;
+}
+.mydiv{
+    width: 200px;
+    height: 200px;
+    margin-top:200px !important;
+}
+button{
+    width: 76px !important;
+    margin: 1px;
+    height: 35px;
+    font-size: 14px !important;
+ 
+   
+}
+img{
+    height: 150px;
+    
+}
+.card{
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 280px !important;
+}
+.font{
+    font-weight: bold;
+}
+.mycards{
+  margin: 30px 40px;
+
+}
